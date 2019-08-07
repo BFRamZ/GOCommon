@@ -1,0 +1,18 @@
+package main
+
+import (
+  "fmt"
+)
+
+func main() {
+  paycheck := make(map[string]int)
+  
+  paycheck["John"] = 462
+  paycheck["Bob"] = 329
+  paycheck["Joe"] = 383
+  
+  delete(paychech["Joe"])
+  
+ fmt.Println(paycheck) 
+ 
+ }
