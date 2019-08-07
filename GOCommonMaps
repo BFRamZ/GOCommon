@@ -13,6 +13,6 @@ func main() {
   
   delete(paychech["Joe"])
   
- fmt.Println(paycheck) 
- 
+  fmt.Println(paycheck) 
+  
  }
