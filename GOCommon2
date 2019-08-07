@@ -5,6 +5,12 @@ import (
 )
 
 func main() {
+  var a = ("RudimentaryGOLang")
+  fmt.Println(a)
+  
+  var code = true
+  fmt.Println(code)
+  
   x := 7
   y := 5
   sum := x + y
