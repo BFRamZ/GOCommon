@@ -11,4 +11,4 @@ func numbers(num int) bool {
 		}
 	}
 	return num > 1
-}
+ }
